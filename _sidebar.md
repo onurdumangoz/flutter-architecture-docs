@@ -17,7 +17,7 @@
   - [Yönlendirme(Navigation)](src/core/navigation.md)
   - [Saklama(Cache)](src/core/cache.md)
   - [Ağ Katmanı(Network Layer)](src/core/network.md)
-  - [Uzantılar(Extension)](src/core/network.md)
+  - [Uzantılar(Extension)](src/core/extension.md)
 
 * Ekranlar
 
